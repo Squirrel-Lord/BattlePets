@@ -5,7 +5,7 @@ Battle Pets is a game designed by Dr. Douglas Selent at the University of Wiscon
 I implemented it with the help of Alex Ahlrichs, Jared Hollenerger, Zexin Liu, and Lincoln Schroeder
 for a class titled Object-Oriented Analysis and Design.
 
-Each player possesses a pet that does battle with opposing players' pets.
+Each player has a pet that does battle with opposing players' pets.
 At the start of the game, players choose their pet's type and specify game settings.
 
 Gameplay consists of a battle. A battle consists of one or more fights, which consists
